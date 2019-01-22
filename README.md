@@ -1,2 +1,2 @@
-# Practical-Machine-Learning
+# Prediction Assignment Writeup Course Poject
 Course Project
