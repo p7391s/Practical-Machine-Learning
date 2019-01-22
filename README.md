@@ -1,2 +1,2 @@
 # Prediction Assignment Writeup Course Poject
-Course Project
+Repo for the submission of the course project Practical Machine Learneng.
